@@ -3,8 +3,11 @@ RENCANA KONTEN ABYO
 - Javascript
  * ES6
  * Frameworks Javascript
-  ^ Angular
+   ^ Vue
+   ^ React
+ * Stuktur Data Dasar
 - PHP Frmaework
-  ^ Laravel
+   ^ Laravel
 - Interview
 - Vlogs
+- Python
