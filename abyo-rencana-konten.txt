@@ -4,6 +4,10 @@ RENCANA KONTEN ABYO
  * ES6
  * Frameworks Javascript
  * Stuktur Data Dasar
+   ^ Vue
+   ^ React
 - PHP Frmaework
+   ^ Laravel
 - Interview
 - Vlogs
+- Python
