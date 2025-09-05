@@ -2,7 +2,8 @@ RENCANA KONTEN ABYO
 
 - Javascript
  * ES6
- *  Frameworks Javascript
+ * Frameworks Javascript
+ * Stuktur Data Dasar
 - PHP Frmaework
 - Interview
 - Vlogs
